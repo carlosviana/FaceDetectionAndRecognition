@@ -1,0 +1,14 @@
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.exe.config
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.exe
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\FaceDetectionAndRecognition.pdb
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.CV.xml
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.CV.UI.xml
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.Util.xml
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csprojAssemblyReference.cache
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.Form1.resources
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.Properties.Resources.resources
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.GenerateResource.cache
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.CoreCompileInputs.cache
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.CopyComplete
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.exe
+F:\Projetos Freela\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.pdb
